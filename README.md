@@ -1,18 +1,18 @@
-# Hi, I'm Charanjot Singh 👋
+# Charanjot Singh
 
-**CSE @ NIT Jalandhar '28** | Competitive Programmer | Full-Stack & iOS Developer | AI/ML Engineer in the making
+**B.Tech Computer Science & Engineering — NIT Jalandhar (Class of 2028)**
 
-I solve hard problems — whether that's a LeetCode contest, a production MERN feature, or training a vision model. Currently interning with **CRIS (Indian Railways)** on the UTS team, previously shipped full-stack features at **Connect The Clinics**.
+Software developer with production experience across full-stack (MERN), computer vision, and LLM-integrated applications. Currently a Software Intern at **CRIS (Indian Railways)** on the UTS team; previously built and shipped full-stack features at **Connect The Clinics** over a year-long contract.
 
-📫 [charanjots.cs.24@nitj.ac.in](mailto:charanjots.cs.24@nitj.ac.in) · [LinkedIn](https://linkedin.com/in/charanjot-singh) · [Portfolio](https://charanjot.netlify.app)
+[Email](mailto:charanjots.cs.24@nitj.ac.in) · [LinkedIn](https://linkedin.com/in/charanjot-singh) · [Portfolio](https://charanjot.netlify.app)
 
 ---
 
-## ⚔️ DSA & Competitive Programming
+## Competitive Programming
 
-- 📈 **LeetCode 1600+ rating** — 300+ problems solved across arrays, DP, graphs, trees
-- 🏆 **CodeChef** — active in rated contests
-- 💪 Core strengths: **Dynamic Programming · Graphs · Binary Search · Greedy**
+- **LeetCode:** 1600+ contest rating, 300+ problems solved
+- **CodeChef:** active in rated contests
+- Core strengths: Dynamic Programming, Graphs, Binary Search, Greedy
 
 <p align="left">
   <a href="https://leetcode.com/charanjot27"><img src="https://img.shields.io/badge/LeetCode-1600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
@@ -21,89 +21,85 @@ I solve hard problems — whether that's a LeetCode contest, a production MERN f
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 💰 FinSim — AI-Powered Financial Literacy Simulator
-> Google Solution Challenge 2026 Submission
+### FinSim — AI-Powered Financial Literacy Simulator
+*Google Solution Challenge 2026 Submission*
 
-Game-based simulator teaching real-world financial decision-making with AI-generated scenarios.
-- **~14K LOC across ~75 modules** — TypeScript, Phaser 3, Firebase
-- Integrated **Vertex AI / Gemini** for dynamic, personalized financial scenarios
+Game-based simulator teaching real-world financial decision-making through AI-generated scenarios.
+- ~14K LOC across ~75 modules — TypeScript, Phaser 3, Firebase
+- Integrated Vertex AI / Gemini for dynamic, personalized financial scenarios
 
-**Tech:** `TypeScript` `Phaser 3` `Firebase` `Vertex AI` `Gemini`
+**Tech:** TypeScript, Phaser 3, Firebase, Vertex AI, Gemini
 
-### 🐾 ResQPets — Computer Vision for Animal Rescue
-> 4th Place @ HackMol 6.0
+### ResQPets — Computer Vision for Animal Rescue
+*4th Place, HackMol 6.0*
 
-Detects stray/injured animals via object detection and connects them to nearby rescue orgs.
-- **YOLO-based detection pipeline** for real-time animal identification
+Detects stray and injured animals via object detection and connects them to nearby rescue organizations.
+- YOLO-based detection pipeline for real-time animal identification
 
-**Tech:** `Python` `YOLO` `OpenCV` `React`
+**Tech:** Python, YOLO, OpenCV, React
 
-### 📊 Social Media Analysis Tool
-> Top 100 India @ Level SuperMind
+### Social Media Analysis Tool
+*Top 100 India, Level SuperMind*
 
 Analytics tool for social media insights and engagement patterns.
 
-### 🏠 Home Automation System
-Bluetooth-controlled home automation built with **Arduino + HC-05** — relay-driven appliance control from a mobile app.
+### Home Automation System
 
-**Tech:** `Arduino` `HC-05 Bluetooth` `Relays` `Embedded C`
+Bluetooth-controlled home automation built with Arduino and HC-05 — relay-driven appliance control from a mobile application.
 
-### 💧 Hydraulic Car
-Fully functional hydraulic-powered car built using **Pascal's law** and fluid pressure systems — my first engineering build, at age 11.
+**Tech:** Arduino, HC-05 Bluetooth, Relays, Embedded C
 
 ---
 
-## 🤖 AI/ML Journey
+## AI/ML Focus
 
-On a structured 2-year roadmap toward **ML Engineering** roles:
+Pursuing a structured two-year roadmap toward ML Engineering:
 
-- 🧠 **Classical ML & MLOps** — model training, deployment pipelines, monitoring
-- 👁️ **Computer Vision** — YOLO object detection (shipped in ResQPets), OpenCV
-- 🔮 **LLMs & Agents** — built with Vertex AI/Gemini in production (FinSim)
-- 📊 **Data Science stack** — NumPy, Pandas, Matplotlib for analysis & visualization
-- 🛠️ Foundations: KNN, linear regression, scikit-learn, KNIME workflows
+- **Classical ML & MLOps** — model training, deployment pipelines, monitoring
+- **Computer Vision** — YOLO object detection (deployed in ResQPets), OpenCV
+- **LLMs & Agents** — Vertex AI / Gemini integration in production (FinSim)
+- **Data Science** — NumPy, Pandas, Matplotlib for analysis and visualization
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Organization | Duration |
 |------|-------------|----------|
-| Software Intern (UTS Team) | **CRIS — Indian Railways** | Jun 2026 – Jul 2026 |
-| Full-Stack Developer (MERN) | **Connect The Clinics** | Jun 2024 – Jul 2025 |
+| Software Intern, UTS Team | CRIS — Indian Railways | Jun 2026 – Jul 2026 |
+| Full-Stack Developer (MERN) | Connect The Clinics | Jun 2024 – Jul 2025 |
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-### 🎓 Academic
-- **JEE Advanced 2024 — Top 1.2%** nationally
-- **JEE Main 2024 — Top 1%** nationally
-- **AISQ Qualified** — IIT Kanpur
-- **INSPIRE Award** — Govt. of India science innovation recognition
-- Strong mathematical foundation — Laplace/Fourier transforms, linear algebra, eigenvalues
+**Academic**
+- JEE Advanced 2024 — Top 1.2% nationally
+- JEE Main 2024 — Top 1% nationally
+- AISQ Qualified — IIT Kanpur
+- INSPIRE Award — Govt. of India science innovation recognition
 
-### 🏅 Hackathons & Competitions
-- 🥇 **SIH National Finalist** — Smart India Hackathon
-- 🏅 **4th Place** — HackMol 6.0
-- 🌏 **Top 100 India** — Level SuperMind Hackathon
-- 🚀 **3rd Institute / 155th National** — EROH
-- 🛰️ **NASA Space Apps Challenge** — Participant
-- 🤖 **Robotics Champion** — DAV University
+**Hackathons & Competitions**
+- SIH National Finalist — Smart India Hackathon
+- 4th Place — HackMol 6.0
+- Top 100 India — Level SuperMind Hackathon
+- 3rd Institute / 155th National — EROH
+- NASA Space Apps Challenge — Participant
+- Robotics Champion — DAV University
 
-### 🌟 Beyond Academics
-- 📸 **NETRA Photography Club** — NIT Jalandhar
-- 🤖 **Agastya Robotics Club** — DRDO/MeitY certified drone training
-- 🛠️ Open source: `gitcommit` plugin for **updatecli**, docs contribution to **GlobaLeaks**
-- 💪 Fitness enthusiast
+**Beyond Academics**
+- NETRA Photography Club — NIT Jalandhar
+- Agastya Robotics Club — DRDO/MeitY certified drone training
+- Open source contributor — `gitcommit` plugin for updatecli; documentation for GlobaLeaks
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
-### Programming Languages
+**Programming Languages**
+
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -115,7 +111,8 @@ On a structured 2-year roadmap toward **ML Engineering** roles:
   <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C">
 </p>
 
-### Web Development
+**Web Development**
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -125,14 +122,16 @@ On a structured 2-year roadmap toward **ML Engineering** roles:
   <img src="https://img.shields.io/badge/Phaser_3-99424F?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser 3">
 </p>
 
-### iOS Development
+**iOS Development**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
 </p>
 
-### AI/ML & Data Science
+**AI/ML & Data Science**
+
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -145,7 +144,8 @@ On a structured 2-year roadmap toward **ML Engineering** roles:
   <img src="https://img.shields.io/badge/KNIME-FDD835?style=for-the-badge&logo=knime&logoColor=black" alt="KNIME">
 </p>
 
-### Electronics & Embedded
+**Electronics & Embedded**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/HC--05_Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="HC-05 Bluetooth">
@@ -154,17 +154,19 @@ On a structured 2-year roadmap toward **ML Engineering** roles:
   <img src="https://img.shields.io/badge/Drone_Systems-DRDO/MeitY_Certified-D32F2F?style=for-the-badge" alt="Drone Systems">
 </p>
 
-### Core CS
+**Core Computer Science**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/DSA-FF5722?style=for-the-badge" alt="DSA">
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF5722?style=for-the-badge" alt="DSA">
   <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge" alt="DBMS">
   <img src="https://img.shields.io/badge/Computer_Networks-0288D1?style=for-the-badge" alt="Computer Networks">
   <img src="https://img.shields.io/badge/OOP-7B1FA2?style=for-the-badge" alt="OOP">
-  <img src="https://img.shields.io/badge/TOC-455A64?style=for-the-badge" alt="TOC">
-  <img src="https://img.shields.io/badge/DAA-00796B?style=for-the-badge" alt="DAA">
+  <img src="https://img.shields.io/badge/Theory_of_Computation-455A64?style=for-the-badge" alt="TOC">
+  <img src="https://img.shields.io/badge/Algorithm_Design_&_Analysis-00796B?style=for-the-badge" alt="DAA">
 </p>
 
-### Tools
+**Tools**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
@@ -174,15 +176,6 @@ On a structured 2-year roadmap toward **ML Engineering** roles:
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charanjot27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanjot27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
----
-
-<p align="center">
-  <i>Open to SDE / ML internship opportunities — let's connect!</i>
+  <i>Open to SDE and ML internship opportunities.</i>
 </p>
