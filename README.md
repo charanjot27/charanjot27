@@ -101,33 +101,84 @@ On a structured 2-year roadmap toward **ML Engineering** roles:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-**Languages:** `C++` `Python` `Swift` `JavaScript/TypeScript` `HTML5` `CSS3` `Embedded C`
+### Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C">
+</p>
 
-**Web Development:** `React` `Node.js` `Express` `MongoDB` `Firebase` `Phaser 3`
+### Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Phaser_3-99424F?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser 3">
+</p>
 
-**iOS Development:** `Swift` `SwiftUI` `Xcode`
+### iOS Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
+</p>
 
-**AI/ML & Data Science:** `NumPy` `Pandas` `Matplotlib` `scikit-learn` `YOLO` `OpenCV` `Vertex AI / Gemini` `KNIME`
+### AI/ML & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/KNIME-FDD835?style=for-the-badge&logo=knime&logoColor=black" alt="KNIME">
+</p>
 
-**Electronics & Embedded:** `Arduino` `HC-05 Bluetooth` `Relays & Sensors` `Circuit Design` `Drone Systems (DRDO/MeitY certified)`
+### Electronics & Embedded
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/HC--05_Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="HC-05 Bluetooth">
+  <img src="https://img.shields.io/badge/Relays_&_Sensors-FF6F00?style=for-the-badge&logo=arduino&logoColor=white" alt="Relays & Sensors">
+  <img src="https://img.shields.io/badge/Circuit_Design-4CAF50?style=for-the-badge&logo=circuitverse&logoColor=white" alt="Circuit Design">
+  <img src="https://img.shields.io/badge/Drone_Systems-DRDO/MeitY_Certified-D32F2F?style=for-the-badge" alt="Drone Systems">
+</p>
 
-**Core CS:** `DSA` `DBMS` `Computer Networks` `OOP` `TOC` `DAA`
+### Core CS
+<p align="left">
+  <img src="https://img.shields.io/badge/DSA-FF5722?style=for-the-badge" alt="DSA">
+  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge" alt="DBMS">
+  <img src="https://img.shields.io/badge/Computer_Networks-0288D1?style=for-the-badge" alt="Computer Networks">
+  <img src="https://img.shields.io/badge/OOP-7B1FA2?style=for-the-badge" alt="OOP">
+  <img src="https://img.shields.io/badge/TOC-455A64?style=for-the-badge" alt="TOC">
+  <img src="https://img.shields.io/badge/DAA-00796B?style=for-the-badge" alt="DAA">
+</p>
 
-**Tools:** `Git` `LaTeX` `Xcode` `VS Code`
+### Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charanjot27&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanjot27&layout=compact&hide_border=true" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/charanjot27?theme=light&font=Karma&ext=contest" alt="LeetCode Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=charanjot27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanjot27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </p>
 
 ---
