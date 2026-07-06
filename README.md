@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/badge/B.Tech%20CSE-NIT%20Jalandhar-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="NIT Jalandhar"/>
 <img src="https://img.shields.io/badge/Class%20of-2028-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Class of 2028"/>
 <img src="https://img.shields.io/badge/JEE%20Advanced-Top%201.2%25-8B5CF6?style=for-the-badge&logo=target&logoColor=white" alt="JEE Advanced"/>
-<img src="https://img.shields.io/badge/📍%20Punjab-India-4F46E5?style=for-the-badge" alt="Location"/>
+<img src="https://img.shields.io/badge/Punjab-India-4F46E5?style=for-the-badge" alt="Location"/>
 
 <br/><br/>
 
-<a href="https://charanjot.netlify.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6D28D9?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://charanjot.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/charanjot-singh"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn"/></a>
 <a href="mailto:charanjots.cs.24@nitj.ac.in"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/charanjot27"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -32,21 +32,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-Software engineer in training with **production experience across full-stack (MERN), computer vision, and LLM-integrated applications**. I care about building products end-to-end — from data pipelines and model integration to polished, deployed user experiences.
+Software engineer in training with production experience across full-stack (MERN), computer vision, and LLM-integrated applications. Focused on building products end-to-end — from data pipelines and model integration to polished, deployed user experiences.
 
-- 🔭 Software Intern @ **CRIS (Indian Railways)** — UTS Team *(Jun–Jul 2026)*
-- 🏗️ Shipped full-stack features at **Connect The Clinics** over a year-long MERN contract
-- 🧠 Pursuing a structured **2-year AI/ML roadmap** toward ML Engineering — Classical ML, MLOps, Computer Vision, LLMs & Agents
-- ⚔️ Competitive programmer — **1600+ LeetCode contest rating**, 300+ problems solved
-- 🚀 Flagship build: **FinSim** — ~14K LOC AI-powered financial literacy simulator (Google Solution Challenge 2026)
+- Software Intern at **CRIS (Centre for Railway Information Systems), Indian Railways** — UTS Team (Jun–Jul 2026)
+- Shipped full-stack features at **Connect The Clinics** over a year-long MERN contract
+- Pursuing a structured two-year AI/ML roadmap toward ML Engineering — Classical ML, MLOps, Computer Vision, LLMs & Agents
+- Competitive programmer — 1600+ LeetCode contest rating, 300+ problems solved
+- Flagship build: **FinSim** — an AI-powered financial literacy simulator (~14K LOC), Google Solution Challenge 2026
 
-**Open To:** SDE Internships · ML Engineering Internships · Open Source Collaboration
+**Open to:** SDE Internships · ML Engineering Internships · Open Source Collaboration
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -80,7 +80,7 @@ Software engineer in training with **production experience across full-stack (ME
 
 ---
 
-## 🧠 AI / ML Expertise
+## AI / ML Expertise
 
 <div align="center">
 
@@ -89,17 +89,17 @@ Software engineer in training with **production experience across full-stack (ME
 | **LLMs & Agents** | ▰▰▰▰▱ | Vertex AI / Gemini integrated in production (FinSim); agentic loop patterns |
 | **Computer Vision** | ▰▰▰▰▱ | YOLO object detection deployed in ResQPets; OpenCV pipelines |
 | **Classical ML** | ▰▰▰▱▱ | Regression, KNN, scikit-learn workflows, KNIME |
-| **MLOps** | ▰▰▱▱▱ | Learning deployment pipelines, monitoring & model lifecycle |
-| **Data Science** | ▰▰▰▱▱ | NumPy, Pandas, Matplotlib for analysis & visualization |
+| **MLOps** | ▰▰▱▱▱ | Learning deployment pipelines, monitoring, and model lifecycle |
+| **Data Science** | ▰▰▰▱▱ | NumPy, Pandas, Matplotlib for analysis and visualization |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details open>
-<summary><b>💰 FinSim — AI-Powered Financial Literacy Simulator</b> · <i>Google Solution Challenge 2026</i></summary>
+<summary><b>FinSim — AI-Powered Financial Literacy Simulator</b> · <i>Google Solution Challenge 2026</i></summary>
 <br/>
 
 Game-based simulator teaching real-world financial decision-making through AI-generated, personalized scenarios.
@@ -109,16 +109,16 @@ Game-based simulator teaching real-world financial decision-making through AI-ge
 | **Stack** | TypeScript · Phaser 3 · Firebase · Vertex AI · Gemini |
 | **Scale** | ~14K LOC across ~75 modules |
 | **Performance** | Real-time scenario generation with dynamic difficulty |
-| **Security** | Firebase Auth + Firestore security rules |
+| **Security** | Firebase Auth with Firestore security rules |
 | **Impact** | Google Solution Challenge 2026 submission — gamified financial education |
 | **Live / Repo** | [finsimv2.netlify.app](https://finsimv2.netlify.app) · [Repository](https://github.com/charanjot27) |
 
-Architected an LLM-driven scenario engine on Vertex AI/Gemini that adapts financial simulations to each player's decisions — turning abstract concepts like compounding, credit, and risk into interactive gameplay.
+Architected an LLM-driven scenario engine on Vertex AI/Gemini that adapts financial simulations to each player's decisions — turning abstract concepts such as compounding, credit, and risk into interactive gameplay.
 
 </details>
 
 <details>
-<summary><b>🐾 ResQPets — Computer Vision for Animal Rescue</b> · <i>4th Place, HackMol 6.0</i></summary>
+<summary><b>ResQPets — Computer Vision for Animal Rescue</b> · <i>4th Place, HackMol 6.0</i></summary>
 <br/>
 
 Detects stray and injured animals via object detection and routes them to nearby rescue organizations.
@@ -126,48 +126,48 @@ Detects stray and injured animals via object detection and routes them to nearby
 | | |
 |---|---|
 | **Stack** | Python · YOLO · OpenCV · React |
-| **Scale** | Real-time detection pipeline + rescue-matching frontend |
+| **Scale** | Real-time detection pipeline with rescue-matching frontend |
 | **Performance** | YOLO-based inference for live animal identification |
-| **Impact** | 4th place among national participants at HackMol 6.0 |
+| **Impact** | 4th place at HackMol 6.0 |
 | **Repository** | [github.com/charanjot27](https://github.com/charanjot27) |
 
-Built the full detection-to-dispatch flow: camera input → YOLO inference → geo-matched rescue organization alerts.
+Built the full detection-to-dispatch flow: camera input, YOLO inference, and geo-matched rescue organization alerts.
 
 </details>
 
 <details>
-<summary><b>📊 Social Media Analysis Tool</b> · <i>Top 100 India, Level SuperMind</i></summary>
+<summary><b>Social Media Analysis Tool</b> · <i>Top 100 India, Level SuperMind</i></summary>
 <br/>
 
 Analytics tool surfacing engagement patterns and content insights from social media data.
 
 | | |
 |---|---|
-| **Stack** | Data analytics pipeline + insight dashboard |
+| **Stack** | Data analytics pipeline with insight dashboard |
 | **Impact** | Top 100 in India — Level SuperMind Hackathon |
 | **Repository** | [github.com/charanjot27](https://github.com/charanjot27) |
 
 </details>
 
 <details>
-<summary><b>🏠 Home Automation System</b> · <i>Embedded / IoT</i></summary>
+<summary><b>Home Automation System</b> · <i>Embedded / IoT</i></summary>
 <br/>
 
-Bluetooth-controlled home automation — relay-driven appliance control from a mobile app.
+Bluetooth-controlled home automation — relay-driven appliance control from a mobile application.
 
 | | |
 |---|---|
 | **Stack** | Arduino · HC-05 Bluetooth · Relays · Embedded C |
-| **Impact** | End-to-end hardware + firmware + mobile control loop |
+| **Impact** | End-to-end hardware, firmware, and mobile control loop |
 | **Repository** | [github.com/charanjot27](https://github.com/charanjot27) |
 
 </details>
 
 ---
 
-## 💼 Experience
+## Experience
 
-### **Software Intern — UTS Team** · CRIS (Centre for Railway Information Systems), Indian Railways
+### Software Intern — UTS Team · CRIS (Centre for Railway Information Systems), Indian Railways
 *Jun 2026 – Jul 2026*
 
 Worked on the Unreserved Ticketing System (UTS) — one of the largest-scale transaction systems in India.
@@ -179,7 +179,7 @@ Worked on the Unreserved Ticketing System (UTS) — one of the largest-scale tra
 
 <br/>
 
-### **Full-Stack Developer (MERN)** · Connect The Clinics
+### Full-Stack Developer (MERN) · Connect The Clinics
 *Jun 2024 – Jul 2025*
 
 Year-long paid contract building and shipping full-stack healthcare-platform features.
@@ -191,32 +191,32 @@ Year-long paid contract building and shipping full-stack healthcare-platform fea
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |:-----------:|:--------|
-| 🥇 **JEE Advanced 2024** | Top 1.2% nationally |
-| 🎖️ **SIH National Finalist** | Smart India Hackathon |
-| 🏅 **4th Place — HackMol 6.0** | Computer vision project (ResQPets) |
-| 🌟 **Top 100 India** | Level SuperMind Hackathon |
-| 🔬 **INSPIRE Award** | Govt. of India science innovation recognition |
-| 🎓 **AISQ Qualified** | IIT Kanpur |
-| 🥉 **EROH** | 3rd Institute / 155th National |
-| 🚀 **NASA Space Apps Challenge** | Participant |
-| 🤖 **Robotics Champion** | DAV University |
-| 🛸 **Drone Systems** | DRDO/MeitY certified training — Agastya Robotics Club |
+| **JEE Advanced 2024** | Top 1.2% nationally |
+| **SIH National Finalist** | Smart India Hackathon |
+| **4th Place — HackMol 6.0** | Computer vision project (ResQPets) |
+| **Top 100 India** | Level SuperMind Hackathon |
+| **INSPIRE Award** | Government of India science innovation recognition |
+| **AISQ Qualified** | IIT Kanpur |
+| **EROH** | 3rd Institute / 155th National |
+| **NASA Space Apps Challenge** | Participant |
+| **Robotics Champion** | DAV University |
+| **Drone Systems** | DRDO/MeitY certified training — Agastya Robotics Club |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DRDO%2FMeitY-Certified%20Drone%20Training-6D28D9?style=for-the-badge&logo=drone&logoColor=white" alt="DRDO"/>
+<img src="https://img.shields.io/badge/DRDO%2FMeitY-Certified%20Drone%20Training-6D28D9?style=for-the-badge" alt="DRDO"/>
 <img src="https://img.shields.io/badge/Cisco-Networking%20(Packet%20Tracer)-4F46E5?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 <img src="https://img.shields.io/badge/AWS-ML%20Specialty%20(In%20Progress)-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 
@@ -224,7 +224,7 @@ Year-long paid contract building and shipping full-stack healthcare-platform fea
 
 ---
 
-## ⚔️ Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -241,8 +241,22 @@ Year-long paid contract building and shipping full-stack healthcare-platform fea
 
 ---
 
+## GitHub Analytics
 
-## 🐍 Contribution Snake
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=charanjot27&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanjot27&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=charanjot27&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## Contribution Snake
 
 <div align="center">
 
@@ -256,7 +270,7 @@ Year-long paid contract building and shipping full-stack healthcare-platform fea
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -266,7 +280,7 @@ Year-long paid contract building and shipping full-stack healthcare-platform fea
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -276,20 +290,20 @@ Year-long paid contract building and shipping full-stack healthcare-platform fea
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 learning:
-  - Classical ML & MLOps pipelines
-  - Sliding Window & Two-Pointer patterns (CP)
-  - LLM agents & loop-based agentic architectures
+  - Classical ML and MLOps pipelines
+  - Sliding Window and Two-Pointer patterns (competitive programming)
+  - LLM agents and loop-based agentic architectures
 
 building:
   - FinSim v2 — AI-driven financial scenarios at scale
   - DriveSense Edge — Automotive Edge AI (Tata InnoVent)
 
 exploring:
-  - Computer Vision deployment at the edge
+  - Computer vision deployment at the edge
   - iOS development with SwiftUI
 
 open_to:
@@ -300,7 +314,7 @@ open_to:
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
