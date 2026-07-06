@@ -278,17 +278,6 @@ Year-long paid contract building and shipping full-stack healthcare-platform fea
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=charanjot27&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## Current Focus
 
